@@ -1,7 +1,15 @@
-### Hi there 👋
+### "Olá pessoal!" \o/ 👋
+
+Sou professor de física e radiologia e atualmente estudante de análise e desenvolvimento de sistemas no SENAI/SC.
+
+Se você quiser poder olhar o meu linkedin!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marzeu-selau-junior/)](https://www.linkedin.com/in/marzeu-selau-junior/)
 
 <!--
 **Marzeu/Marzeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Meu nome é Marzeu. Sou professor de física e radiologia e atualmente estudante de anal
 
 Here are some ideas to get you started:
 
