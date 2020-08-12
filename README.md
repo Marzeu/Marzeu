@@ -1,6 +1,6 @@
 ### "Olá pessoal!" \o/ 👋
 
-Sou professor de física e radiologia e atualmente estudante de análise e desenvolvimento de sistemas no SENAI/SC.
+Sou professor de física e radiologia e atualmente estudante de desenvolvimento de sistemas no SENAI/SC.
 
 Se você quiser poder olhar o meu linkedin!
 
