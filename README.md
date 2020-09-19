@@ -1,24 +1,38 @@
+<img align="right" width="400" height="400" src="https://snap.licdn.com/tr/images/e5d1cfbb512f27ca56e3d21c795ac075/tenor.gif">
+
 ### "Olá pessoal!" \o/ 👋
 
 Sou professor de física e radiologia e atualmente estudante de desenvolvimento de sistemas no SENAI/SC.
 
 Se você quiser poder olhar o meu linkedin!
+<p align="rigth">
+    <a href="https://www.linkedin.com/in/marzeu-selau-junior/">
+        <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    </a>  
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marzeu-selau-junior/)](https://www.linkedin.com/in/marzeu-selau-junior/)
+---
 
-<!--
-**Marzeu/Marzeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias
 
-Meu nome é Marzeu. Sou professor de física e radiologia e atualmente estudante de anal
+<p align="center">
+    <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
+        <img src="svg/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
+     </a>  
+    <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
+        <img src="svg/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+     </a>  
+     <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
+        <img src="svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+     </a>  
+     <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
+        <img src="svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+     </a>  
+     <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
+        <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    </a>  
+</p>
 
-Here are some ideas to get you started:
+Obrigado pela visita.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for <a href="https://github.com/MikeCodesDotNET/ColoredBadges">Mike James</a>
