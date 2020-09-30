@@ -8,9 +8,10 @@ Se você quiser poder olhar o meu linkedin!
 <p align="rigth">
     <a href="https://www.linkedin.com/in/marzeu-selau-junior/">
         <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-    </a>  
-    [![HitCount](http://hits.dwyl.com/Marzeu/Marzeu.svg)](http://hits.dwyl.com/Marzeu/Marzeu
+    </a>     
 </p>
+
+ [![HitCount](http://hits.dwyl.com/Marzeu/Marzeu.svg)](http://hits.dwyl.com/Marzeu/Marzeu
 
 ---
 
