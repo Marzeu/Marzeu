@@ -11,7 +11,7 @@ Se você quiser poder olhar o meu linkedin!
     </a>     
 </p>
 
- [![HitCount](http://hits.dwyl.com/Marzeu/Marzeu.svg)](http://hits.dwyl.com/Marzeu/Marzeu
+ [![HitCount](http://hits.dwyl.com/Marzeu/Marzeu.svg)](http://hits.dwyl.com/Marzeu/Marzeu)
 
 ---
 
