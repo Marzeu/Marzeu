@@ -9,6 +9,7 @@ Se você quiser poder olhar o meu linkedin!
     <a href="https://www.linkedin.com/in/marzeu-selau-junior/">
         <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>  
+    [![HitCount](http://hits.dwyl.com/Marzeu/Marzeu.svg)](http://hits.dwyl.com/Marzeu/Marzeu
 </p>
 
 ---
@@ -36,3 +37,4 @@ Se você quiser poder olhar o meu linkedin!
 Obrigado pela visita.
 
 Thanks for <a href="https://github.com/MikeCodesDotNET/ColoredBadges">Mike James</a>
+
