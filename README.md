@@ -2,9 +2,9 @@
 
 ### "Olá pessoal!" \o/ 👋
 
-Sou professor de física e radiologia e atualmente estudante de desenvolvimento de sistemas no SENAI/SC.
+Sou estudante de desenvolvimento de sistemas no SENAI/SC.
 
-Se você quiser poder olhar o meu linkedin!
+Se você quiser poder visitar o meu linkedin!
 <p align="rigth">
     <a href="https://www.linkedin.com/in/marzeu-selau-junior/">
         <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
