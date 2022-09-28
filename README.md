@@ -31,6 +31,9 @@ Se você quiser poder visitar o meu linkedin!
      <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
         <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
     </a>  
+    <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
+        <img src="svg/c#.svg" alt="C#" style="vertical-align:top; margin:6px 4px">
+    </a>  
 </p>
 
 Obrigado pela visita.
