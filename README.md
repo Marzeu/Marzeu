@@ -2,7 +2,7 @@
 
 ### "Olá pessoal!" \o/ 👋
 
-Sou estudante de desenvolvimento de sistemas no SENAI/SC.
+Sou desenvolvedor de sistemas C#.
 
 Se você quiser poder visitar o meu linkedin!
 <p align="rigth">
